@@ -1,9 +1,9 @@
 ## Hello! My name is Marcos Vinicius, I'm studying Software Engineering at the Catholic University of Brasília (UCB)  🧑‍💻
 
  <div>
-   <a href="https://github.com/Dev-MVinicius">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-MVinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MVinicius&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/MViniciusNunes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MViniciusNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MViniciusNunes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
